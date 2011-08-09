@@ -17,5 +17,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  perftools.rb
   rack-perftools_profiler
   sinatra
